@@ -1,0 +1,132 @@
+{
+  "workbench.colorTheme": "poimandres",
+  "workbench.statusBar.visible": true,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 8,
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#000000"
+  },
+  "explorer.compactFolders": false,
+  "explorer.decorations.badges": false,
+  "git.decorations.enabled": true,
+  "window.zoomLevel": 0.95,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.fontFamily": "Rec Mono Casual",
+  "editor.fontSize": 13.5,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.5,
+  "editor.stickyScroll.enabled": false,
+  "editor.codeLens": false,
+  "editor.links": true,
+  "editor.matchBrackets": "always",
+  "editor.parameterHints.enabled": true,
+  "editor.lightbulb.enabled": "off",
+  "editor.hover.enabled": true,
+  "editor.lineNumbers": "on",
+  "editor.tabSize": 1,
+  "editor.detectIndentation": false,
+  "editor.showFoldingControls": "never",
+  "editor.guides.indentation": false,
+  "editor.renderWhitespace": "selection",
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "singleFile",
+  "editor.selectionHighlight": false,
+  "editor.scrollbar.horizontal": "auto",
+  "editor.scrollbar.vertical": "auto",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": false,
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelZoom": false,
+  "extensions.ignoreRecommendations": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "scm.diffDecorations": "all",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.linkedEditing": true,
+  "editor.fontWeight": "normal",
+  "[handlebars]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.indentHandlebars": true,
+  "oneDarkPro.vivid": false,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "editor.insertSpaces": false,
+  "terminal.integrated.fontSize": 15,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.autoClosingQuotes": "languageDefined",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "tabnine.experimentalAutoImports": true,
+  "git.suggestSmartCommit": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "settingsSync.ignoredSettings": [],
+  "editor.quickSuggestionsDelay": 1,
+  "editor.suggest.preview": true,
+  "files.watcherExclude": {
+    "**/node_modules": true,
+    "**/node_modules/*/**": false
+  },
+  "prisma.showPrismaDataPlatformNotification": false,
+  "redhat.telemetry.enabled": false,
+  "codetogether.userName": "christhian12rv",
+  "gitlens.ai.model": "openai:gpt-4o",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.minimap.enabled": true,
+  "html.autoCreateQuotes": false,
+  "prettier.semi": false,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "tailwindCSS.classFunctions": ["cva", "cx"],
+  "window.commandCenter": true,
+  "workbench.editor.tabSizing": "fixed",
+  "workbench.editor.tabSizingFixedMaxWidth": 240,
+  "workbench.activityBar.orientation": "vertical",
+  "terminal.integrated.tabs.defaultIcon": "mark-github",
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "quokka.showOutputOnStart": true,
+  "window.customTitleBarVisibility": "auto",
+  "terminal.integrated.env.linux": {},
+  "workbench.iconTheme": "symbols",
+  "maven.executable.path": "/home/christhian/.sdkman/candidates/maven/4.0.0-rc-3/bin/mvn",
+  "java.completion.importOrder": ["java", "javax", "org", "com"],
+  "java.completion.favoriteStaticMembers": [
+    "org.junit.jupiter.api.Assertions.*",
+    "org.mockito.Mockito.*"
+  ],
+  "java.references.includeAccessors": true,
+  "java.autobuild.enabled": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "java.format.settings.url": "file:///home/christhian/Morpheus_Tecnologia/Algar/Projects/FIX/ms-cross-importer-portal-bff/src/main/resources/formatter/java-code-style.xml",
+  "java.format.settings.profile": "Java Formatter",
+  "workbench.sideBar.location": "right",
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  }
+}
